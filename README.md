@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Abhinav 👋
 
-<!--
-**naagasaiabhinavtej/naagasaiabhinavtej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech + MS student at IIIT Hyderabad passionate about full-stack development, backend systems, and problem solving.
 
-Here are some ideas to get you started:
+Currently building scalable web apps, real-time systems, and interactive user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+
+* Building **MediConnect** — Unified medical records & telemedicine platform
+* Working on **Infinium 2027** under Felicity Tech Team
+* Practicing Data Structures & Algorithms
+
+## Tech Stack
+
+### Languages
+
+C • C++ • Python • JavaScript
+
+### Frontend
+
+Next.js • Tailwind CSS • HTML • CSS
+
+### Backend
+
+FastAPI • Flask • WebSockets • REST APIs
+
+### Databases
+
+MongoDB • PostgreSQL • SQLite
+
+### Tools
+
+Git • Linux • Bash • VS Code
+
+## Achievements
+
+* UGEE AIR 163
+* JEE Mains AIR 6831
+* 200+ LeetCode problems solved
+
+## Connect With Me
+
+GitHub: https://github.com/naagasaiabhinavtej
+LinkedIn: https://www.linkedin.com/in/paladugu-naaga-sai-abhinav-tej-78b376374/
+LeetCode: https://leetcode.com/u/pnsabhinav/
