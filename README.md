@@ -41,5 +41,7 @@ Git • Linux • Bash • VS Code
 ## Connect With Me
 
 GitHub: https://github.com/naagasaiabhinavtej
+
 LinkedIn: https://www.linkedin.com/in/paladugu-naaga-sai-abhinav-tej-78b376374/
+
 LeetCode: https://leetcode.com/u/pnsabhinav/
