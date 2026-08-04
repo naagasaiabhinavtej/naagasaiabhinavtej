@@ -18,15 +18,15 @@ C • C++ • Python • JavaScript
 
 ### Frontend
 
-Next.js • Tailwind CSS • HTML • CSS
+Next.js(basic) • Tailwind CSS(basic) • HTML • CSS
 
 ### Backend
 
-FastAPI • Flask • WebSockets • REST APIs
+FastAPI • Flask(basic) • WebSockets • REST APIs
 
 ### Databases
 
-MongoDB • PostgreSQL • SQLite
+MongoDB • PostgreSQL(basic) • SQLite
 
 ### Tools
 
