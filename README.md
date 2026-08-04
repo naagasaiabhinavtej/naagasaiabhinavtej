@@ -6,7 +6,7 @@ Currently building scalable web apps, real-time systems, and interactive user ex
 
 ## Current Work
 
-* Building **MediConnect** — Unified medical records & telemedicine platform
+* Built **MediConnect** — Unified medical records & telemedicine platform
 * Working on **Infinium 2027** under Felicity Tech Team
 * Practicing Data Structures & Algorithms
 
